@@ -21,4 +21,5 @@ To create a censorship-resistant, collaborative idea chain where thinkers around
 - NFT badging for popular or insightful contributions
 
 ## 📄 Contract Details
-Oxa18c2e4a6add4356adea9b758f123e963acbf80
+0x09593ef7F6910e0285D53A0a80db530c13080E86
+![Screenshot (2)](https://github.com/user-attachments/assets/228d1d83-c544-45d8-94a4-2b833c7ebc15)
